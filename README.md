@@ -1,4 +1,4 @@
-# Hi there, I'm Shreya Vadukar (shv@1011) 👋
+# Hi there, I'm Shreya Vadukar (shv1011) 👋
 
 🎓 **About Me**  
 - 🧑‍🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering** at **GSFC University, Vadodara**.  
@@ -10,7 +10,7 @@
 - Building innovative projects and solving real-world problems  
 
 📬 **Get in Touch**  
-- **GitHub**: [shv@1011](https://github.com/shv@1011)  
+- **GitHub**: [shv1011](https://github.com/shv1011)  
 - **Email**: vadukarshreya@gmail.com  
 
 ⚡ **Fun Fact**  
